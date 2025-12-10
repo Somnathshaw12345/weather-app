@@ -8,7 +8,7 @@ A sleek and responsive weather app using OpenWeatherMap API — built with HTML,
 A clean and minimal **weather app** built with **HTML, CSS, and JavaScript**, powered by the **OpenWeatherMap API**.  
 Type any city name and get real-time temperature, humidity, and wind speed — fast, responsive, and simple.
 
-🔗 **Live Demo:** [Somnathshaw12345.github.io/weather-app](https://Somnathshaw12345.github.io/weather-app)
+🔗 **Live Demo:** https://weathercheckanywhere.netlify.app/
 
 
 
@@ -22,3 +22,4 @@ Type any city name and get real-time temperature, humidity, and wind speed — f
 
 ⚙️ Tech Stack
 HTML • CSS • JavaScript • OpenWeatherMap API  
+
